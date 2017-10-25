@@ -530,7 +530,7 @@ const attrSname = {
     "acceptedSessionDescription":"asd",
     "offeredSessionDescriptions":"osd",
     "sessionState":"sst",
-    "accessControWindow":"actw",
+    "accessControlWindow":"actw",
     "createdBefore":"crb",
     "createdAfter":"cra",
     "modifiedSince":"ms",
